@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Task assigned_to</name>
+        <parent>cc7bb236975021103dee71571153af85</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-14 01:03:18</sys_created_on>
+        <sys_id>8c7bb236975021103dee71571153af87</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Task assigned_to</sys_name>
+        <sys_package display_value="Awesome Family" source="x_383264_awesome_0">9015767e971021103dee71571153affa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Awesome Family">9015767e971021103dee71571153affa</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_8c7bb236975021103dee71571153af87</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-14 01:03:18</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>
