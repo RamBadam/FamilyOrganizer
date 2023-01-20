@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-14 00:37:09</sys_created_on>
+        <sys_id>0d75be7e971021103dee71571153af09</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_383264_awesome_0_familytask.x_383264_awesome_0.admin</sys_name>
+        <sys_package display_value="AwesomeFamily" source="x_383264_awesome_0">9015767e971021103dee71571153affa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AwesomeFamily">9015767e971021103dee71571153affa</sys_scope>
+        <sys_security_acl display_value="x_383264_awesome_0_familytask">c975be7e971021103dee71571153af07</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_0d75be7e971021103dee71571153af09</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-14 00:37:09</sys_updated_on>
+        <sys_user_role display_value="x_383264_awesome_0.admin" name="x_383264_awesome_0.admin">1815767e971021103dee71571153afff</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Organizer">9015767e971021103dee71571153affa</application>
+        <file_path/>
+        <instance_id>0fc9d899db5f8c949df22f17d496193b</instance_id>
+        <instance_name>dev101791</instance_name>
+        <name>sys_security_acl_role_0d75be7e971021103dee71571153af09</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-01-14 00:37:09</sys_created_on><sys_id>0d75be7e971021103dee71571153af09</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_383264_awesome_0_familytask.x_383264_awesome_0.admin</sys_name><sys_package display_value="AwesomeFamily" source="x_383264_awesome_0">9015767e971021103dee71571153affa</sys_package><sys_policy/><sys_scope display_value="AwesomeFamily">9015767e971021103dee71571153affa</sys_scope><sys_security_acl display_value="x_383264_awesome_0_familytask">c975be7e971021103dee71571153af07</sys_security_acl><sys_update_name>sys_security_acl_role_0d75be7e971021103dee71571153af09</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-01-14 00:37:09</sys_updated_on><sys_user_role display_value="x_383264_awesome_0.admin" name="x_383264_awesome_0.admin">1815767e971021103dee71571153afff</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1384195090</payload_hash>
+        <record_name>x_383264_awesome_0_familytask.x_383264_awesome_0.admin</record_name>
+        <reverted_from/>
+        <source>9415767e971021103dee71571153affc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-14 00:37:09</sys_created_on>
+        <sys_id>0d75be7e971021103dee71571153af0b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>185adb5788c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-14 00:37:09</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>4575be7e58102110ebd362286ac78b0b</update_guid>
+        <update_guid_history>4575be7e58102110ebd362286ac78b0b:-1384195090</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_383264_awesome_0_familytask.x_383264_awesome_0.admin">f4b6b6fe971021103dee71571153af32</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-14 00:42:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>4eafaee01ae943a08ba08aba96635990</sys_id>
+        <sys_metadata>0d75be7e971021103dee71571153af09</sys_metadata>
+        <sys_name>x_383264_awesome_0_familytask.x_383264_awesome_0.admin</sys_name>
+        <sys_package display_value="Family Organizer" source="x_383264_awesome_0">9015767e971021103dee71571153affa</sys_package>
+        <sys_parent display_value="">c975be7e971021103dee71571153af07</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Family Organizer">9015767e971021103dee71571153affa</sys_scope>
+        <sys_scope_delete display_value="">0aac6d73ad4f47ee813021f87d7cca21</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_0d75be7e971021103dee71571153af09</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_0d75be7e971021103dee71571153af09">0d75be7e971021103dee71571153af0b</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

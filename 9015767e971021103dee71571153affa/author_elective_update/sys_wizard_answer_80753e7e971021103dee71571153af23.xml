@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>New FamilyTask</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>FamilyTask</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">a67056e4f90211108c8bd16244dfe708</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-14 00:37:05</sys_created_on>
+        <sys_id>80753e7e971021103dee71571153af23</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FamilyTask</sys_name>
+        <sys_package display_value="AwesomeFamily" source="x_383264_awesome_0">9015767e971021103dee71571153affa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AwesomeFamily">9015767e971021103dee71571153affa</sys_scope>
+        <sys_update_name>sys_wizard_answer_80753e7e971021103dee71571153af23</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-14 00:37:05</sys_updated_on>
+        <table/>
+        <target_url>x_383264_awesome_0_familytask.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Organizer">9015767e971021103dee71571153affa</application>
+        <file_path/>
+        <instance_id>0fc9d899db5f8c949df22f17d496193b</instance_id>
+        <instance_name>dev101791</instance_name>
+        <name>sys_wizard_answer_80753e7e971021103dee71571153af23</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>New FamilyTask</answer><button_label/><dependent_value/><element/><name>FamilyTask</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">a67056e4f90211108c8bd16244dfe708</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-01-14 00:37:05</sys_created_on><sys_id>80753e7e971021103dee71571153af23</sys_id><sys_mod_count>0</sys_mod_count><sys_name>FamilyTask</sys_name><sys_package display_value="AwesomeFamily" source="x_383264_awesome_0">9015767e971021103dee71571153affa</sys_package><sys_policy/><sys_scope display_value="AwesomeFamily">9015767e971021103dee71571153affa</sys_scope><sys_update_name>sys_wizard_answer_80753e7e971021103dee71571153af23</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-01-14 00:37:05</sys_updated_on><table/><target_url>x_383264_awesome_0_familytask.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>-2099000852</payload_hash>
+        <record_name>FamilyTask</record_name>
+        <reverted_from/>
+        <source>9415767e971021103dee71571153affc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-14 00:37:05</sys_created_on>
+        <sys_id>c4753e7e971021103dee71571153af25</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>185adb568660000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-14 00:37:05</sys_updated_on>
+        <type>Answer</type>
+        <update_guid>00753e7e0e1021106e7e2098382cbc25</update_guid>
+        <update_guid_history>00753e7e0e1021106e7e2098382cbc25:-2099000852</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-14 00:42:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>524db10895244c619ca3f8e198a43d49</sys_id>
+        <sys_metadata>80753e7e971021103dee71571153af23</sys_metadata>
+        <sys_name>FamilyTask</sys_name>
+        <sys_package display_value="Family Organizer" source="x_383264_awesome_0">9015767e971021103dee71571153affa</sys_package>
+        <sys_parent display_value="Task">a67056e4f90211108c8bd16244dfe708</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Family Organizer">9015767e971021103dee71571153affa</sys_scope>
+        <sys_scope_delete display_value="">0aac6d73ad4f47ee813021f87d7cca21</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_80753e7e971021103dee71571153af23</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_80753e7e971021103dee71571153af23">c4753e7e971021103dee71571153af25</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

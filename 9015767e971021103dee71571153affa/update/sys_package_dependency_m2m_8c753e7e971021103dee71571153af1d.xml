@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">1a7056e4f90211108c8bd16244dfe705</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-14 00:37:05</sys_created_on>
+        <sys_id>8c753e7e971021103dee71571153af1d</sys_id>
+        <sys_package display_value="Family Organizer" source="x_383264_awesome_0">9015767e971021103dee71571153affa</sys_package>
+    </sys_package_dependency_m2m>
+</record_update>

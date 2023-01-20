@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="expense" table="x_383264_awesome_0_groceries">
+        <active>true</active>
+        <array>false</array>
+        <attributes/>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Expense</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>expense</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="Reference">reference</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>32</max_length>
+        <name>x_383264_awesome_0_groceries</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference display_value="" name="x_383264_awesome_0_expenses">x_383264_awesome_0_expenses</reference>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-14 05:38:35</sys_created_on>
+        <sys_id>207abbfa971421103dee71571153af71</sys_id>
+        <sys_name>Expense</sys_name>
+        <sys_package display_value="Awesome Family" source="x_383264_awesome_0">9015767e971021103dee71571153affa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Awesome Family">9015767e971021103dee71571153affa</sys_scope>
+        <sys_update_name>sys_dictionary_x_383264_awesome_0_groceries_expense</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-14 05:38:36</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Organizer">9015767e971021103dee71571153affa</application>
+        <file_path/>
+        <instance_id>0fc9d899db5f8c949df22f17d496193b</instance_id>
+        <instance_name>dev101791</instance_name>
+        <name>sys_dictionary_x_383264_awesome_0_groceries_expense</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="expense" table="x_383264_awesome_0_groceries"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Expense</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>expense</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="Reference">reference</internal_type><mandatory>false</mandatory><max_length>32</max_length><name>x_383264_awesome_0_groceries</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference display_value="" name="x_383264_awesome_0_expenses">x_383264_awesome_0_expenses</reference><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-01-14 05:38:35</sys_created_on><sys_id>207abbfa971421103dee71571153af71</sys_id><sys_name>Expense</sys_name><sys_package display_value="Awesome Family" source="x_383264_awesome_0">9015767e971021103dee71571153affa</sys_package><sys_policy/><sys_scope display_value="Awesome Family">9015767e971021103dee71571153affa</sys_scope><sys_update_name>sys_dictionary_x_383264_awesome_0_groceries_expense</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-01-14 05:38:36</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>-626359165</payload_hash>
+        <record_name>Groceries.Expense</record_name>
+        <reverted_from/>
+        <source>9415767e971021103dee71571153affc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-14 05:38:36</sys_created_on>
+        <sys_id>b07abbfa971421103dee71571153afd0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>185aec975930000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-14 05:38:36</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>b87abbfa2e142110be3dc26ee2327ccf</update_guid>
+        <update_guid_history>b87abbfa2e142110be3dc26ee2327ccf:-626359165,b47abbfa6d1421104a1f6b0e22c8f0c6:1339314658</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-17 00:32:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>bd75adfad6cb4605ad6f5357ae1314e9</sys_id>
+        <sys_metadata>207abbfa971421103dee71571153af71</sys_metadata>
+        <sys_name>Expense</sys_name>
+        <sys_package display_value="Family Organizer" source="x_383264_awesome_0">9015767e971021103dee71571153affa</sys_package>
+        <sys_parent display_value="">eba7f632975021103dee71571153af18</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Family Organizer">9015767e971021103dee71571153affa</sys_scope>
+        <sys_scope_delete display_value="">0aac6d73ad4f47ee813021f87d7cca21</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_383264_awesome_0_groceries_expense</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_383264_awesome_0_groceries_expense">b07abbfa971421103dee71571153afd0</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

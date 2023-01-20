@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2023-01-15 01:43:45</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-14 01:20:22</sys_created_on>
+        <sys_id>1e5f7eb2975021103dee71571153af87</sys_id>
+        <sys_name>f27ZqGugRuGuenZUWa--K4:APA91bEiNOQZ3uX_L6cpIZMOBQMHZTxt9SYBnc0JPdojeCR7R7yBYqbtC4L0KWp8Ct_vdTqk7MgbcRKwQU157sbcocd-gYyZ9szqUahDJ_trrJQcszY46BhxoIBcFcUl5UDrBnlHBNve</sys_name>
+        <sys_package display_value="Family Organizer" source="x_383264_awesome_0">9015767e971021103dee71571153affa</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</sys_push_application_id>
+        <sys_push_platform_id display_value="Google">53e75f30ff0002009738ffffffffff12</sys_push_platform_id>
+        <sys_scope display_value="Family Organizer">9015767e971021103dee71571153affa</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_1e5f7eb2975021103dee71571153af87</sys_update_name>
+        <sys_user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user_id>
+        <token>f27ZqGugRuGuenZUWa--K4:APA91bEiNOQZ3uX_L6cpIZMOBQMHZTxt9SYBnc0JPdojeCR7R7yBYqbtC4L0KWp8Ct_vdTqk7MgbcRKwQU157sbcocd-gYyZ9szqUahDJ_trrJQcszY46BhxoIBcFcUl5UDrBnlHBNve</token>
+    </sys_push_notif_app_install>
+</record_update>

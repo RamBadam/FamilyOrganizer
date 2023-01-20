@@ -60,15 +60,12 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>695932b2975021103dee71571153af7f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Task Assigned</sys_name>
         <sys_overrides/>
-        <sys_package display_value="Awesome Family" source="x_383264_awesome_0">9015767e971021103dee71571153affa</sys_package>
+        <sys_package display_value="Family Organizer" source="x_383264_awesome_0">9015767e971021103dee71571153affa</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Awesome Family">9015767e971021103dee71571153affa</sys_scope>
+        <sys_scope display_value="Family Organizer">9015767e971021103dee71571153affa</sys_scope>
         <sys_update_name>sysevent_email_action_695932b2975021103dee71571153af7f</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-01-14 01:00:28</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>

@@ -5,14 +5,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-01-14 01:03:17</sys_created_on>
         <sys_id>b76bb236975021103dee71571153af2c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>opened_by-FieldLabel</sys_name>
-        <sys_package display_value="Awesome Family" source="x_383264_awesome_0">9015767e971021103dee71571153affa</sys_package>
+        <sys_package display_value="Family Organizer" source="x_383264_awesome_0">9015767e971021103dee71571153affa</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Awesome Family">9015767e971021103dee71571153affa</sys_scope>
+        <sys_scope display_value="Family Organizer">9015767e971021103dee71571153affa</sys_scope>
         <sys_update_name>sys_sg_view_config_element_b76bb236975021103dee71571153af2c</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-01-14 01:03:17</sys_updated_on>
         <view_config display_value="Task Detail Screen View Config">bf6b7236975021103dee71571153afe9</view_config>
         <view_template_slot display_value="text_06">cb878d7041275010f877183fc9b8be59</view_template_slot>
     </sys_sg_view_config_element>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>Groceries</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_383264_awesome_0_groceries</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-14 00:46:53</sys_created_on>
+        <sys_id>eba7f632975021103dee71571153af18</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Awesome 0 Groceries</sys_name>
+        <sys_package display_value="Awesome Family" source="x_383264_awesome_0">9015767e971021103dee71571153affa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Awesome Family">9015767e971021103dee71571153affa</sys_scope>
+        <sys_update_name>sys_db_object_eba7f632975021103dee71571153af18</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-14 00:46:53</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Organizer">9015767e971021103dee71571153affa</application>
+        <file_path/>
+        <instance_id>0fc9d899db5f8c949df22f17d496193b</instance_id>
+        <instance_name>dev101791</instance_name>
+        <name>sys_db_object_eba7f632975021103dee71571153af18</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>true</actions_access><alter_access>true</alter_access><caller_access/><client_scripts_access>true</client_scripts_access><configuration_access>false</configuration_access><create_access>true</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><is_extendable>false</is_extendable><label>Groceries</label><live_feed_enabled>false</live_feed_enabled><name>x_383264_awesome_0_groceries</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-01-14 00:46:53</sys_created_on><sys_id>eba7f632975021103dee71571153af18</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Awesome 0 Groceries</sys_name><sys_package display_value="Awesome Family" source="x_383264_awesome_0">9015767e971021103dee71571153affa</sys_package><sys_policy/><sys_scope display_value="Awesome Family">9015767e971021103dee71571153affa</sys_scope><sys_update_name>sys_db_object_eba7f632975021103dee71571153af18</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-01-14 00:46:53</sys_updated_on><update_access>true</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-416258147</payload_hash>
+        <record_name>Groceries</record_name>
+        <reverted_from/>
+        <source>9415767e971021103dee71571153affc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-14 00:46:53</sys_created_on>
+        <sys_id>77a7f632975021103dee71571153af2c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>185adbe63670000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-14 00:46:53</sys_updated_on>
+        <type>Table</type>
+        <update_guid>ffa7f6327b5021107ec237828a46592b</update_guid>
+        <update_guid_history>ffa7f6327b5021107ec237828a46592b:-416258147</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-17 00:32:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>f8700077ff614045a2fd400b87efdcd9</sys_id>
+        <sys_metadata>eba7f632975021103dee71571153af18</sys_metadata>
+        <sys_name>Groceries</sys_name>
+        <sys_package display_value="Family Organizer" source="x_383264_awesome_0">9015767e971021103dee71571153affa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Family Organizer">9015767e971021103dee71571153affa</sys_scope>
+        <sys_scope_delete display_value="">0aac6d73ad4f47ee813021f87d7cca21</sys_scope_delete>
+        <sys_update_name>sys_db_object_eba7f632975021103dee71571153af18</sys_update_name>
+        <sys_update_version display_value="sys_db_object_eba7f632975021103dee71571153af18">77a7f632975021103dee71571153af2c</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

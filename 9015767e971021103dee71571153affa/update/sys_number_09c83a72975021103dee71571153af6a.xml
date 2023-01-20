@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_383264_awesome_0_expenses">x_383264_awesome_0_expenses</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>EX</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-14 00:51:38</sys_created_on>
+        <sys_id>09c83a72975021103dee71571153af6a</sys_id>
+        <sys_name>EX</sys_name>
+        <sys_package display_value="Family Organizer" source="x_383264_awesome_0">9015767e971021103dee71571153affa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Organizer">9015767e971021103dee71571153affa</sys_scope>
+        <sys_update_name>sys_number_09c83a72975021103dee71571153af6a</sys_update_name>
+    </sys_number>
+</record_update>

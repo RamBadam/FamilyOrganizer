@@ -11,15 +11,11 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2023-01-14 00:42:06</sys_created_on>
-            <sys_id>2d96f2fe971021103dee71571153af8e</sys_id>
-            <sys_mod_count>0</sys_mod_count>
             <sys_name>Number</sys_name>
-            <sys_package display_value="AwesomeFamily" source="x_383264_awesome_0">9015767e971021103dee71571153affa</sys_package>
+            <sys_package display_value="Family Organizer" source="x_383264_awesome_0">9015767e971021103dee71571153affa</sys_package>
             <sys_policy/>
-            <sys_scope display_value="AwesomeFamily">9015767e971021103dee71571153affa</sys_scope>
+            <sys_scope display_value="Family Organizer">9015767e971021103dee71571153affa</sys_scope>
             <sys_update_name>sys_documentation_x_383264_awesome_0_diary_number_en</sys_update_name>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-01-14 00:42:06</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
