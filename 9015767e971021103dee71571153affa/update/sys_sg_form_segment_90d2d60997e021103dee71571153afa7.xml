@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="INSERT_OR_UPDATE">
+        <embedded_screen display_value="Details">d0d2d60997e021103dee71571153afa3</embedded_screen>
+        <form display_value="List Form Screen">54d2d60997e021103dee71571153afa2</form>
+        <header_view_config/>
+        <is_sticky>false</is_sticky>
+        <order>10</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-20 21:52:09</sys_created_on>
+        <sys_id>90d2d60997e021103dee71571153afa7</sys_id>
+        <sys_name/>
+        <sys_package display_value="Family Organizer" source="x_383264_awesome_0">9015767e971021103dee71571153affa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Organizer">9015767e971021103dee71571153affa</sys_scope>
+        <sys_update_name>sys_sg_form_segment_90d2d60997e021103dee71571153afa7</sys_update_name>
+    </sys_sg_form_segment>
+</record_update>

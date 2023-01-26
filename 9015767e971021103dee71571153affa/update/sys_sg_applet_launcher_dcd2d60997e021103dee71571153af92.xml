@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button/>
+        <header_titles/>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>Wish Lists</name>
+        <required_roles>x_383264_awesome_0.admin,x_383264_awesome_0.user</required_roles>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-20 21:52:09</sys_created_on>
+        <sys_id>dcd2d60997e021103dee71571153af92</sys_id>
+        <sys_name>Wish Lists</sys_name>
+        <sys_package display_value="Family Organizer" source="x_383264_awesome_0">9015767e971021103dee71571153affa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Organizer">9015767e971021103dee71571153affa</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_dcd2d60997e021103dee71571153af92</sys_update_name>
+        <title>Wish Lists</title>
+    </sys_sg_applet_launcher>
+</record_update>
